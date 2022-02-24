@@ -30,12 +30,11 @@ Section 3 – Cracking Recursion Interview Questions
 - ~~isPalindrome~~
 ### someRecursive
 - flatten
-captalizeFirst
-nestedEvenSum
-capitalizeWords
-stringifyNumbers
-collectStrings
-Section 5 – Big O Notation
+- ~~nestedEvenSum~~
+- capitalizeWords
+- stringifyNumbers
+- collectStrings
+### Section 5 – Big O Notation
 
 Analogy and Time Complexity
 Big O, Big Theta and Big Omega
