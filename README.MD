@@ -23,7 +23,7 @@ Section 3 – Cracking Recursion Interview Questions
 
 - ~~power~~
 - ~~factorial~~
-- productofArray
+- ~~productofArray~~
 - recursiveRange
 - ~~fib~~
 - reverse
