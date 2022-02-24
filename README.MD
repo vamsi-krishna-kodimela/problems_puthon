@@ -17,7 +17,7 @@ How to find Fibonacci numbers using Recursion?
 Section 3 – Cracking Recursion Interview Questions
 
 - ~~Sum of Digits~~
-- Power
+- ~~Power~~
 - Greatest Common Divisor
 - Decimal To Binary
 
