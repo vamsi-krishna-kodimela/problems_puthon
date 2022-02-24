@@ -26,7 +26,7 @@ Section 3 – Cracking Recursion Interview Questions
 - ~~productofArray~~
 - recursiveRange
 - ~~fib~~
-- reverse
+- ~~reverse~~
 - isPalindrome
 ### someRecursive
 - flatten
