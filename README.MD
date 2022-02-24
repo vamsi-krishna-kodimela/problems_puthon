@@ -18,18 +18,18 @@ Section 3 – Cracking Recursion Interview Questions
 
 - ~~Sum of Digits~~
 - ~~Power~~
-- Greatest Common Divisor
+- ~~Greatest Common Divisor~~
 - Decimal To Binary
 
-power
+- ~~power~~
 factorial
-productofArray
-recursiveRange
+- productofArray
+- recursiveRange
 - ~~fib~~
-reverse
-isPalindrome
-someRecursive
-flatten
+- reverse
+- isPalindrome
+### someRecursive
+- flatten
 captalizeFirst
 nestedEvenSum
 capitalizeWords
