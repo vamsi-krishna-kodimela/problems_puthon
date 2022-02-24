@@ -22,7 +22,7 @@ Section 3 – Cracking Recursion Interview Questions
 - ~~Decimal To Binary~~
 
 - ~~power~~
-factorial
+- ~~factorial~~
 - productofArray
 - recursiveRange
 - ~~fib~~
