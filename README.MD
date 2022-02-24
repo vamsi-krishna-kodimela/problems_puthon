@@ -27,7 +27,7 @@ Section 3 – Cracking Recursion Interview Questions
 - recursiveRange
 - ~~fib~~
 - ~~reverse~~
-- isPalindrome
+- ~~isPalindrome~~
 ### someRecursive
 - flatten
 captalizeFirst
