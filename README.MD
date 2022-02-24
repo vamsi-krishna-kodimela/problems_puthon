@@ -19,7 +19,7 @@ Section 3 – Cracking Recursion Interview Questions
 - ~~Sum of Digits~~
 - ~~Power~~
 - ~~Greatest Common Divisor~~
-- Decimal To Binary
+- ~~Decimal To Binary~~
 
 - ~~power~~
 factorial
