@@ -16,7 +16,7 @@ How to write Recursion in 3 steps?
 How to find Fibonacci numbers using Recursion?
 Section 3 – Cracking Recursion Interview Questions
 
-- Sum of Digits
+- ~~Sum of Digits~~
 - Power
 - Greatest Common Divisor
 - Decimal To Binary
