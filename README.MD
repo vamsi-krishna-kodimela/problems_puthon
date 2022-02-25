@@ -1,26 +1,24 @@
-Section 1 – Introduction
+### Section 1 – Introduction
+- What are Data Structures?
+- What is an algorithm?
+- Why are Data Structures and Algorithms important?
+- Types of Data Structures
+- Types of Algorithms
 
-What are Data Structures?
-What is an algorithm?
-Why are Data Structures and Algorithms important?
-Types of Data Structures
-Types of Algorithms
-Section 2 – Recursion
+### Section 2 – Recursion
+- What is Recursion?
+- Why do we need recursion?
+- How Recursion works?
+- Recursive vs Iterative Solutions
+- When to use/avoid Recursion?
+- How to write Recursion in 3 steps?
+- How to find Fibonacci numbers using Recursion?
 
-What is Recursion?
-Why do we need recursion?
-How Recursion works?
-Recursive vs Iterative Solutions
-When to use/avoid Recursion?
-How to write Recursion in 3 steps?
-How to find Fibonacci numbers using Recursion?
-Section 3 – Cracking Recursion Interview Questions
-
+### Section 3 – Cracking Recursion Interview Questions
 - ~~Sum of Digits~~
 - ~~Power~~
 - ~~Greatest Common Divisor~~
 - ~~Decimal To Binary~~
-
 - ~~power~~
 - ~~factorial~~
 - ~~productofArray~~
@@ -28,178 +26,176 @@ Section 3 – Cracking Recursion Interview Questions
 - ~~fib~~
 - ~~reverse~~
 - ~~isPalindrome~~
-### someRecursive
+- someRecursive
 - flatten
 - ~~nestedEvenSum~~
 - capitalizeWords
 - stringifyNumbers
 - collectStrings
+
 ### Section 5 – Big O Notation
+- Analogy and Time Complexity
+- Big O, Big Theta and Big Omega
+- Time complexity examples
+- Space Complexity
+- Drop the Constants and the non dominant terms
+- Add vs Multiply
+- How to measure the codes using Big O?
+- How to find time complexity for Recursive calls?
+- How to measure Recursive Algorithms that make multiple calls?
+- Section 6 – Top 10 Big O Interview Questions (Amazon, Facebook, Apple and Microsoft)
 
-Analogy and Time Complexity
-Big O, Big Theta and Big Omega
-Time complexity examples
-Space Complexity
-Drop the Constants and the non dominant terms
-Add vs Multiply
-How to measure the codes using Big O?
-How to find time complexity for Recursive calls?
-How to measure Recursive Algorithms that make multiple calls?
-Section 6 – Top 10 Big O Interview Questions (Amazon, Facebook, Apple and Microsoft)
+- Product and Sum
+- Print Pairs
+- Print Unordered Pairs
+- Print Unordered Pairs 2 Arrays
+- Print Unordered Pairs 2 Arrays 100000 Units
+- Reverse
+- O(N)  Equivalents
+- Factorial Complexity
+- Fibonacci Complexity
+- Powers of 2
 
-Product and Sum
-Print Pairs
-Print Unordered Pairs
-Print Unordered Pairs 2 Arrays
-Print Unordered Pairs 2 Arrays 100000 Units
-Reverse
-O(N)  Equivalents
-Factorial Complexity
-Fibonacci Complexity
-Powers of 2
-Section 7 – Arrays
+### Section 7 – Arrays
 
-What is an Array?
-Types of Array
-Arrays in Memory
-Create an Array
-Insertion Operation
-Traversal Operation
-Accessing an element of Array
-Searching for an element in Array
-Deleting an element from Array
-Time and Space complexity of One Dimensional Array
-One Dimensional Array Practice
-Create Two Dimensional Array
-Insertion – Two Dimensional Array
-Accessing an element of Two Dimensional Array
-Traversal – Two Dimensional Array
-Searching for an element in Two Dimensional Array
-Deletion – Two Dimensional Array
-Time and Space complexity of Two Dimensional Array
-When to use/avoid array
-Section 8 – Python Lists
+- What is an Array?
+- Types of Array
+- Arrays in Memory
+- Create an Array
+- Insertion Operation
+- Traversal Operation
+- Accessing an element of Array
+- Searching for an element in Array
+- Deleting an element from Array
+- Time and Space complexity of One Dimensional Array
+- One Dimensional Array Practice
+- Create Two Dimensional Array
+- Insertion – Two Dimensional Array
+- Accessing an element of Two Dimensional Array
+- Traversal – Two Dimensional Array
+- Searching for an element in Two Dimensional Array
+- Deletion – Two Dimensional Array
+- Time and Space complexity of Two Dimensional Array
+- When to use/avoid array
 
-What is a List? How to create it?
-Accessing/Traversing a list
-Update/Insert a List
-Slice/ from a List
-Searching for an element in a List
-List Operations/Functions
-Lists and strings
-Common List pitfalls and ways to avoid them
-Lists vs Arrays
-Time and Space Complexity of List
-List Interview Questions
-Section 9 – Cracking Array/List Interview Questions (Amazon, Facebook, Apple and Microsoft)
+### Section 8 – Python Lists
+- What is a List? How to create it?
+- Accessing/Traversing a list
+- Update/Insert a List
+- Slice/ from a List
+- Searching for an element in a List
+- List Operations/Functions
+- Lists and strings
+- Common List pitfalls and ways to avoid them
+- Lists vs Arrays
+- Time and Space Complexity of List
 
-Question 1 – Missing Number
-Question 2 – Pairs
-Question 3 – Finding a number in an Array
-Question 4 – Max product of two int
-Question 5 – Is Unique
-Question 6 – Permutation
-Question 7 – Rotate Matrix
-Section 10 – CHALLENGING Array/List Problems (Exercises)
+### Section 9 – Cracking Array/List Interview Questions (Amazon, Facebook, Apple and Microsoft)
 
-Middle Function
-2D Lists
-Best Score
-Missing Number
-Duplicate Number
-Pairs
-Section 11 – Dictionaries
+- Question 1 – Missing Number
+- Question 2 – Pairs
+- Question 3 – Finding a number in an Array
+- Question 4 – Max product of two int
+- Question 5 – Is Unique
+- Question 6 – Permutation
+- Question 7 – Rotate Matrix
 
-What is a Dictionary?
-Create a Dictionary
-Dictionaries in memory
-Insert /Update an element in a Dictionary
-Traverse through a Dictionary
-Search for an element in a Dictionary
-Delete / Remove an element from a Dictionary
-Dictionary Methods
-Dictionary operations/ built in functions
-Dictionary vs List
-Time and Space Complexity of a Dictionary
-Dictionary Interview Questions
-Section 12 – Tuples
+### Section 10 – CHALLENGING Array/List Problems (Exercises)
+- Middle Function
+- 2D Lists
+- Best Score
+- Missing Number
+- Duplicate Number
+- Pairs
+- Section 11 – Dictionaries
+- What is a Dictionary?
+- Create a Dictionary
+- Dictionaries in memory
+- Insert /Update an element in a Dictionary
+- Traverse through a Dictionary
+- Search for an element in a Dictionary
+- Delete / Remove an element from a Dictionary
+- Dictionary Methods
+- Dictionary operations/ built in functions
+- Dictionary vs List
+- Time and Space Complexity of a Dictionary
+- Dictionary Interview Questions
+### Section 12 – Tuples
+- What is a Tuple? How to create it?
+- Tuples in Memory / Accessing an element of Tuple
+- Traversing a Tuple
+- Search for an element in Tuple
+- Tuple Operations/Functions
+- Tuple vs List
+- Time and Space complexity of Tuples
+- Tuple Questions
+### Section 13 – Linked List
+- What is a Linked List?
+- Linked List vs Arrays
+- Types of Linked List
+- Linked List in the Memory
+- Creation of Singly Linked List
+- Insertion in Singly Linked List in Memory
+- Insertion in Singly Linked List Algorithm
+- Insertion Method in Singly Linked List
+- Traversal of Singly Linked List
+- Search for a value in Single Linked List
+- Deletion of node from Singly Linked List
+- Deletion Method in Singly Linked List
+- Deletion of entire Singly Linked List
+- Time and Space Complexity of Singly Linked List
 
-What is a Tuple? How to create it?
-Tuples in Memory / Accessing an element of Tuple
-Traversing a Tuple
-Search for an element in Tuple
-Tuple Operations/Functions
-Tuple vs List
-Time and Space complexity of Tuples
-Tuple Questions
-Section 13 – Linked List
+### Section 14 – Circular Singly Linked List
+- Creation of Circular Singly Linked List
+- Insertion in Circular Singly Linked List
+- Insertion Algorithm in Circular Singly Linked List
+- Insertion method in Circular Singly Linked List
+- Traversal of Circular Singly Linked List
+- Searching a node in Circular Singly Linked List
+- Deletion of a node from Circular Singly Linked List
+- Deletion Algorithm in Circular Singly Linked List
+- Method in Circular Singly Linked List
+- Deletion of entire Circular Singly Linked List
+- Time and Space Complexity of Circular Singly Linked List
 
-What is a Linked List?
-Linked List vs Arrays
-Types of Linked List
-Linked List in the Memory
-Creation of Singly Linked List
-Insertion in Singly Linked List in Memory
-Insertion in Singly Linked List Algorithm
-Insertion Method in Singly Linked List
-Traversal of Singly Linked List
-Search for a value in Single Linked List
-Deletion of node from Singly Linked List
-Deletion Method in Singly Linked List
-Deletion of entire Singly Linked List
-Time and Space Complexity of Singly Linked List
-Section 14 – Circular Singly Linked List
+### Section 15 – Doubly Linked List
+- Creation of Doubly Linked List
+- Insertion in Doubly Linked List
+- Insertion Algorithm in Doubly Linked List
+- Insertion Method in Doubly Linked List
+- Traversal of Doubly Linked List
+- Reverse Traversal of Doubly Linked List
+- Searching for a node in Doubly Linked List
+- Deletion of a node in Doubly Linked List
+- Deletion Algorithm in Doubly Linked List
+- Deletion Method in Doubly Linked List
+- Deletion of entire Doubly Linked List
+- Time and Space Complexity of Doubly Linked List
 
-Creation of Circular Singly Linked List
-Insertion in Circular Singly Linked List
-Insertion Algorithm in Circular Singly Linked List
-Insertion method in Circular Singly Linked List
-Traversal of Circular Singly Linked List
-Searching a node in Circular Singly Linked List
-Deletion of a node from Circular Singly Linked List
-Deletion Algorithm in Circular Singly Linked List
-Method in Circular Singly Linked List
-Deletion of entire Circular Singly Linked List
-Time and Space Complexity of Circular Singly Linked List
-Section 15 – Doubly Linked List
+### Section 16 – Circular Doubly Linked List
+- Creation of Circular Doubly Linked List
+- Insertion in Circular Doubly Linked List
+- Insertion Algorithm in Circular Doubly Linked List
+- Insertion Method in Circular Doubly Linked List
+- Traversal of Circular Doubly Linked List
+- Reverse Traversal of Circular Doubly Linked List
+- Search for a node in Circular Doubly Linked List
+- Delete a node from Circular Doubly Linked List
+- Deletion Algorithm in Circular Doubly Linked List
+- Deletion Method in Circular Doubly Linked List
+- Entire Circular Doubly Linked List
+- Time and Space Complexity of Circular Doubly Linked List
+- Time Complexity of Linked List vs Arrays
 
-Creation of Doubly Linked List
-Insertion in Doubly Linked List
-Insertion Algorithm in Doubly Linked List
-Insertion Method in Doubly Linked List
-Traversal of Doubly Linked List
-Reverse Traversal of Doubly Linked List
-Searching for a node in Doubly Linked List
-Deletion of a node in Doubly Linked List
-Deletion Algorithm in Doubly Linked List
-Deletion Method in Doubly Linked List
-Deletion of entire Doubly Linked List
-Time and Space Complexity of Doubly Linked List
-Section 16 – Circular Doubly Linked List
+### Section 17 – Cracking Linked List Interview Questions (Amazon, Facebook, Apple and Microsoft)
+- Linked List Class
+- Question 1 – Remove Dups
+- Question 2 – Return Kth to Last
+- Question 3 – Partition
+- Question 4 – Sum Linked Lists
+- Question 5 – Intersection
 
-Creation of Circular Doubly Linked List
-Insertion in Circular Doubly Linked List
-Insertion Algorithm in Circular Doubly Linked List
-Insertion Method in Circular Doubly Linked List
-Traversal of Circular Doubly Linked List
-Reverse Traversal of Circular Doubly Linked List
-Search for a node in Circular Doubly Linked List
-Delete a node from Circular Doubly Linked List
-Deletion Algorithm in Circular Doubly Linked List
-Deletion Method in Circular Doubly Linked List
-Entire Circular Doubly Linked List
-Time and Space Complexity of Circular Doubly Linked List
-Time Complexity of Linked List vs Arrays
-Section 17 – Cracking Linked List Interview Questions (Amazon, Facebook, Apple and Microsoft)
-
-Linked List Class
-Question 1 – Remove Dups
-Question 2 – Return Kth to Last
-Question 3 – Partition
-Question 4 – Sum Linked Lists
-Question 5 – Intersection
-Section 18 – Stack
-
+### Section 18 – Stack
 What is a Stack?
 Stack Operations
 Create Stack using List without size limit
@@ -210,8 +206,8 @@ Operation on Stack using Linked List (pop, push, peek, isEmpty, )
 Time and Space Complexity of Stack using Linked List
 When to use/avoid Stack
 Stack Quiz
-Section 19 – Queue
 
+### Section 19 – Queue
 What is Queue?
 Queue using Python List – no size limit
 Queue using Python List – no size limit , operations (enqueue, dequeue, peek)
